@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "api/**/*.js": {
+      "maxDuration": 60
+    }
+  },
+  "env": {
+    "API_ID": "@telegram_api_id",
+    "API_HASH": "@telegram_api_hash"
+  }
+}

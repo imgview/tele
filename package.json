@@ -1,0 +1,8 @@
+{
+  "name": "telegram-client-vercel",
+  "version": "1.0.0",
+  "dependencies": {
+    "telegram": "^2.22.2",
+    "node-localstorage": "^2.2.1"
+  }
+}
